@@ -9,19 +9,29 @@ Customer segmentation using behavioral data
 RFM-based value classification (High, Medium, Low)
 Interactive Power BI dashboard
 Business-driven insights for targeted marketing
+
 🛠️ Tools Used
+
 Power BI
+
 DAX (Data Analysis Expressions)
+
 Data Visualization
+
 📁 Project Structure
+
 data/ → Dataset
+
 dax/ → DAX formulas
+
 docs/ → Setup guide
-screenshots/ → Dashboard preview
+
 📈 Key Insights
-High-value customers contribute the majority of revenue
-Medium segment shows growth potential
-Low-value customers need engagement strategies
+
+High-value customers contribute the majority of revenue.
+Medium segment shows growth potential.
+Low-value customers need engagement strategies.
+
 🧠 Business Impact
 
 This dashboard helps businesses:
