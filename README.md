@@ -1,4 +1,5 @@
 '''Customer Segmentation using Power BI'''
+
 📊 Overview
 
 This project focuses on segmenting customers based on purchasing behavior using clustering concepts and RFM (Recency, Frequency, Monetary) analysis.
