@@ -1,0 +1,6 @@
+
+Total Customers = COUNT(Advanced_Customer_Data[CustomerID])
+Average Income = AVERAGE(Advanced_Customer_Data[Annual Income (k$)])
+Total Revenue = SUM(Advanced_Customer_Data[Monetary])
+RFM Score = Advanced_Customer_Data[Recency]*0.2 + Advanced_Customer_Data[Frequency]*0.3 + Advanced_Customer_Data[Monetary]*0.5
+Segment = SWITCH(TRUE(), [RFM Score] > 7000, "High Value", [RFM Score] > 3000, "Medium Value", "Low Value")
